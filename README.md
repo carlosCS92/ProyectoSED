@@ -2,6 +2,7 @@
 
 ## Autores
 Miguel de Andrés Herrero
+
 Carlos Congosto Sandoval
 
 ## Introducción
